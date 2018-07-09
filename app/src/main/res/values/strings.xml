@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TableFixHeaderDemo</string>
+
+    <string name="simple_adapter">Simple adapter</string>
+    <string name="style_adapter">Style adapter</string>
+    <string name="family_adapter">Family adapter</string>
+    <string name="order_sections_asc">bb</string>
+    <string name="table_basic">basic</string>
+    <string name="table_original">original</string>
+    <string name="table_original_sortable">originalsort</string>
+</resources>
